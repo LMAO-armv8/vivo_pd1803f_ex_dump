@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+<config type = "COMMON">
+	<ProcessLimit>5</ProcessLimit> <!--The limit of non-important process-->
+	<MusicDelayTime>1800000</MusicDelayTime> <!--The delay time after music stop playing-->
+  <ProtectDownloadingApp>false</ProtectDownloadingApp>
+	<!--Start: configure the white list APPS-->
+	<WhiteListApp>
+	  <App1>com.google.android.inputmethod.latin</App1>
+	  <!--<App2>****</App2>-->
+	  <!--<App3>****</App3>-->
+	</WhiteListApp>
+	<ProtectAdj>
+		<Adj>300</Adj>
+		<Adj>430</Adj>
+		<Adj>450</Adj>
+		<Adj>451</Adj>
+		<Adj>481</Adj>
+	</ProtectAdj>
+</config>
+</configuration>
