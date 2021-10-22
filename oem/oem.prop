@@ -1,0 +1,22 @@
+#
+# PD1803F_EX-N persist props
+#
+ro.oem.version=V1.00.20150519
+ro.product.model=vivo 1726
+ro.product.device=1726
+ro.product.name=1726
+ro.vivo.product.release.model=1726
+ro.vivo.product.release.name=1726
+ro.product.customize.bbk=N
+ro.vivo.product.model=PD1803F_EX
+persist.sys.vivo.product.cust=N
+
+ro.product.country.region=N
+ro.product.customize.comercial=NULL
+
+
+ro.vivo.oem.name=PD1803F_EX_N_NULL_NULL
+ro.vivo.product.version=PD1803F_EX_A_1.70.6
+ro.build.version.bbk=PD1803F_EX_A_1.70.6
+ro.build.fingerprint=vivo/1726/1726:8.1.0/O11019/1615618576:user/release-keys
+ro.build.netaccess.version=PD1803F_EX_A_1.70.6
